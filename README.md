@@ -1,28 +1,25 @@
-# This is a large heading
+# Randall Valverde
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poets pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in the city of Tejar, in the state of Cartago, in Costa Rica.
 
-- This is
-- an unordered
-- list
+### Reading
 
-1. This is
-2. an ordered
-3. list
+Three of my favorite books are:
 
-Here is `some code` in the middle of a sentence.
+- *Mero Cristianismo* by C. S. Lewis
+- *Ghost in the wires* by Kevin Mitnick
+- *the art of deseption* by Kevin Mitnick
 
-```
-This is
-a block
-of code
-```
+### Food
 
-Here is how you make [a link](https://www.wikipedia.org/).
+Last night I dreamt about eating in these restaurants:
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+1. Chineese food.
+2. Italian food.
+3. Corean food.
+
+### Contact
+
+The best way to get in touch with me is [on Twitter](https://twitter.com/rvalcor).
